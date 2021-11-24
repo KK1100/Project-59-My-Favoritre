@@ -1,0 +1,26 @@
+body{
+  text-align:center;
+    background:linear-gradient(#18FFFF 0%,#6200EA 100%);
+  background-repeat:no-repeat;
+}
+
+img{
+  border-radius:50%;
+  width:600px;
+  height:600px
+}
+
+h1{
+  text-shadow:2px 2px #1E88E5;
+  font-size:20px;
+}
+
+p{
+  font-size:18px#4A148C;
+    color:;
+}
+
+.line{
+  height:0px;
+    width:100%;
+}
